@@ -1,6 +1,6 @@
 # Travailler avec l’IA
 
-Site autonome consacré à la masterclass « Travailler avec l’IA. Transformer le travail. »
+Site autonome consacré à la masterclass « Travailler avec l’IA. Progresser dans son métier. »
 
 ## Contenu
 
